@@ -1,2 +1,2 @@
 # zeekay/test
-Test dotfiles package.
+[Ellipsis](https://ellipsis.sh) test package.
