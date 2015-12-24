@@ -1,2 +1,2 @@
-# zeekay/test2
+# zeekay/test
 [Ellipsis](https://ellipsis.sh) test package.
